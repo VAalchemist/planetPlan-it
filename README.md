@@ -29,6 +29,6 @@ THEN the saved events persist
 
 
 > Here's a small preview
-![Schedular mock-up](assets\images\mock-up.gif)
+![Schedular mock-up](https://raw.githubusercontent.com/VAalchemist/planetPlan-it/main/assets/images/mock-up.gif)
 
  `Schedule with us` [here!](https://vaalchemist.github.io/planetPlan-it/)
