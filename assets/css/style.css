@@ -77,9 +77,9 @@ textarea{
 
 
 /* media query attempt */
-@media (max-width: px) {
+/* @media (max-width: px) {
   .container {}
   .row { }
   .saveBtn {  }
   .time-block { }
-}
+} */
